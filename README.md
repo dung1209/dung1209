@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Posts and Telecommunications Institute of Technology**
 
-- 💬 Ask me about **react**
+<!-- - 💬 Ask me about **react**-->
 
 - ⚡ Fun fact **I am friendly**
 
